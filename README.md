@@ -1,2 +1,2 @@
-# simple-mobile-menu
-Fully responsive menu using Bootstrap 3.x and FontAwesome. CSS Flexbox and CSS BEM syntax.
+# Simple Mobile Menu
+Fully responsive menu using Bootstrap 3.x, FontAwesome, CSS Flexbox and CSS BEM syntax.
